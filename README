@@ -1,0 +1,5 @@
+Linear regression on IRIS datasets.
+Aims:
+  To predict sepal length based on the other independent variables.
+  Try out different combination of features to check for most correlated feature.
+  Use a non numeric feature by employing pd.get_dummies
